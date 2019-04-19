@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index="0" class="hierarchy" rotation="0" width="1080" height="1794">
+  <android.widget.FrameLayout index="0" package="org.nativescript.myApp" class="android.widget.FrameLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][1080,1794]" displayed="true">
+    <android.widget.LinearLayout index="0" package="org.nativescript.myApp" class="android.widget.LinearLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][1080,1794]" displayed="true">
+      <android.widget.FrameLayout index="0" package="org.nativescript.myApp" class="android.widget.FrameLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,63][1080,1794]" displayed="true">
+        <android.widget.LinearLayout index="0" package="org.nativescript.myApp" class="android.widget.LinearLayout" text="" resource-id="org.nativescript.myApp:id/action_bar_root" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,63][1080,1794]" displayed="true">
+          <android.widget.FrameLayout index="0" package="org.nativescript.myApp" class="android.widget.FrameLayout" text="" resource-id="android:id/content" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,63][1080,1794]" displayed="true">
+            <android.view.ViewGroup index="0" package="org.nativescript.myApp" class="android.view.ViewGroup" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,63][1080,1794]" displayed="true">
+              <android.view.ViewGroup index="0" package="org.nativescript.myApp" class="android.view.ViewGroup" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,63][1080,1794]" displayed="true">
+                <android.view.ViewGroup index="0" package="org.nativescript.myApp" class="android.view.ViewGroup" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,63][1080,210]" displayed="true">
+                  <android.widget.TextView index="0" package="org.nativescript.myApp" class="android.widget.TextView" text="Details" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[42,101][207,172]" displayed="true" />
+                </android.view.ViewGroup>
+                <android.view.ViewGroup index="1" package="org.nativescript.myApp" class="android.view.ViewGroup" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,210][1080,1794]" displayed="true">
+                  <android.view.ViewGroup index="0" package="org.nativescript.myApp" class="android.view.ViewGroup" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[39,249][1041,345]" displayed="true">
+                    <android.widget.TextView index="0" package="org.nativescript.myApp" class="android.widget.TextView" text="1. " content-desc="Ter Stegen" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[39,249][107,334]" displayed="true" />
+                    <android.widget.TextView index="1" package="org.nativescript.myApp" class="android.widget.TextView" text="Ter Stegen" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[107,249][406,334]" displayed="true" />
+                  </android.view.ViewGroup>
+                  <android.widget.TextView index="1" package="org.nativescript.myApp" class="android.widget.TextView" text="Goalkeeper" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,384][1080,427]" displayed="true" />
+                </android.view.ViewGroup>
+              </android.view.ViewGroup>
+            </android.view.ViewGroup>
+          </android.widget.FrameLayout>
+        </android.widget.LinearLayout>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+</hierarchy>

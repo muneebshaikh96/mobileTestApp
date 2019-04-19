@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="2.379" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2019-04-11T09:25:02" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="sample scenario" timestamp="2019-04-11T09:25:04" tests="2" file="D:\Muneeb\nativeScriptE2ETestApp\myApp\e2e\newsample.e2e-spec.js" failures="0" time="1.959">
+    <testcase name="sample scenario should find an element by text" time="1.846" classname="should find an element by text">
+    </testcase>
+    <testcase name="sample scenario should find an element by type" time="0.113" classname="should find an element by type">
+    </testcase>
+  </testsuite>
+  <testsuite name="sample scenario" timestamp="2019-04-11T09:25:15" tests="2" file="D:\Muneeb\nativeScriptE2ETestApp\myApp\e2e\sample.e2e-spec.js" failures="0" time="0.42">
+    <testcase name="sample scenario should find an element by text" time="0.317" classname="should find an element by text">
+    </testcase>
+    <testcase name="sample scenario should find an element by type" time="0.103" classname="should find an element by type">
+    </testcase>
+  </testsuite>
+</testsuites>

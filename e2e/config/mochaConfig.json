@@ -1,0 +1,6 @@
+{
+    "reporterEnabled": "mocha-junit-reporter",
+    "mochaJunitReporterReporterOptions": {
+        "mochaFile": "./e2e/reports/junit-custom.xml"
+    }
+}
